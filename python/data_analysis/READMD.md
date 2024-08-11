@@ -47,22 +47,26 @@ CSVデータとは？
 
 
 ## pandasでデータをみよう
+便利なやつら
 
-describe
+describe [ドキュメント]()
 
-max,min
+max,min [ドキュメント]()
 
-numpyの結果を比較？確認？
+本当似合ってるか，手計算，numpyの結果と比較して確認
 
 ## データを可視化しよう
 
 matplotlib，データをグラフ化するライブラリー
 
-pandasと組み合わせて使える．
+pandasと組み合わせても使える！
+
+まずは，どんなグラフがふさわしいかデータから考えてみるよう．
+作るグラフの構想は，紙に書いてみたりすると整理されておすすめ．
 
 
 
-
+## トラブルシューティング
 
 ### エンコーディングエラー
 https://docs.python.org/3/library/codecs.html#standard-encodings
