@@ -2,6 +2,7 @@
 
 ## 基本方針
 楽しく！
+[イベントページリンク](https://ie.u-ryukyu.ac.jp/event-site/other/internal/2024-07-10/)
 
 アンケート結果より，以下の3つを実施します．
 1. Python復習，応用
