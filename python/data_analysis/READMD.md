@@ -44,7 +44,7 @@ CSVデータとは？
 先ほどやったCSVファイルを読み込む．をpandasを使ってやってみよう！
 
 参考：[pandasでcsvファイルを読む](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html#pandas-read-csv)
-
+[pandas公式チュートリアル](https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html)
 
 ## pandasでデータをみよう
 便利なやつら
