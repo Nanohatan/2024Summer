@@ -28,9 +28,10 @@
 ## AI（LLM）にマリオをクリアさせよう
 
 ### こんなことができちゃう！
-![[AI_Mario/ai_mario-mobileVLLM.gif]]
-
 [資料はこちら](AI_Mario/README.md)
+![mario git](AI_Mario/ai_mario-mobileVLLM.gif)
+
+
 
 ## todo
 AI興味確認，Channelの宣伝
