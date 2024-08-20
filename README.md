@@ -25,5 +25,12 @@
 2024/08/20追記, AIMarioのチュートリアルを追加しました！
 2024/08/19追記, 8/21（水）無くなりました．
 
+## AI（LLM）にマリオをクリアさせよう
+
+### こんなことができちゃう！
+![[AI_Mario/ai_mario-mobileVLLM.gif]]
+
+[資料はこちら](AI_Mario/README.md)
+
 ## todo
 AI興味確認，Channelの宣伝
